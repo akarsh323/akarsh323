@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data scince and machine learning nureal networks
 - 💞️ I’m looking to collaborate on andrewNG
 - 📫 How to reach me mail
-- 😄 Pronouns: ...
+- 😄 Pronouns: Void,Null,int,Str
 - ⚡ Fun fact: ...inner beauty only matters when you open your repositry
 
 <!---
