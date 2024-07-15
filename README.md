@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akarsh323
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Data scince and machine learning
+- 🌱 I’m currently learning Data scince and machine learning nureal networks
 - 💞️ I’m looking to collaborate on andrewNG
 - 📫 How to reach me mail
 - 😄 Pronouns: ...
