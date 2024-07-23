@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akarsh323
+- 👋 Hi, I’m @akarsh
 - 👀 I’m interested in Machine learning and Datascince also Quantaum computers
 - 🌱 I’m currently learning Data scince and machine learning nureal networks
 - 💞️ I’m looking to collaborate on andrewNG
