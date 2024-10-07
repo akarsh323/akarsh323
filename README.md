@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on andrewNG and ishowspeed
 - 📫 How to reach me by mails 
 - 😄 Pronouns: Void,Null,int,Str
-- ⚡ Fun fact: ...inner beauty only matters when you open your repositry
+- ⚡ Fun fact: BE YOURSELF LET THE WORLD ADJUST
   
 
 <!---
