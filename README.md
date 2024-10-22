@@ -9,7 +9,7 @@
 
 -🌱 I'm actively learning and contributing to cutting-edge projects in these fields.
 
--💡 Looking to collaborate on exciting AI/ML initiatives, including courses like Andrew Ng's Machine Learning.
+-💡 Looking to collaborate on exciting AI/ML initiatives, including projects  like Andrew Ng's Machine Learning projects .
 
 -📫 Feel free to connect with me via email or GitHub for collaboration.
 
