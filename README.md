@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Akarsh
-- 
+  
 -🚀 I’m passionate about Machine Learning, Data Science, and Quantum Computing.
 
 -📚 Currently enhancing my skills in Neural Networks and Advanced Machine Learning Techniques.
