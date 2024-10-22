@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @akarsh
-- 👀 I’m interested in Machine learning and Datascince also Quantaum computers
-- 🌱 I’m currently learning Data scince and machine learning nureal networks
-- 💞️ I’m looking to collaborate on andrewNG and ishowspeed
-- 📫 How to reach me by mails 
-- 😄 Pronouns: Void,Null,int,Str
-- ⚡ Fun fact: BE YOURSELF LET THE WORLD ADJUST
+
+
+
+- 👋 Hi, I’m Akarsh
+🚀 I’m passionate about Machine Learning, Data Science, and Quantum Computing.
+📚 Currently enhancing my skills in Neural Networks and Advanced Machine Learning Techniques.
+🌱 I'm actively learning and contributing to cutting-edge projects in these fields.
+💡 Looking to collaborate on exciting AI/ML initiatives, including courses like Andrew Ng's Machine Learning.
+📫 Feel free to connect with me via email or GitHub for collaboration.
+🌟 Fun fact: "Be yourself; the world will adjust."
   
 
 <!---
