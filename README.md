@@ -43,31 +43,20 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/aadi1011">
+<a href="https://github.com/akarsh323">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1011&layout=compact&theme=github_dark&langs_count=10" />
 </a>
 -->
 
-<a href="https://github.com/akarsh323"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aadi1011&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
+<a href="https://github.com/akarsh323"><img align="center" src="https://github-profile-trophy.vercel.app/?username=akarsh323&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
 
 [![An image of @akarsh323's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
 
-<!--
-**aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![ok](https://visitcount.itsvg.in/api?id=aadi1011&label=aadi1011&color=12&icon=0&pretty=true)](https://github.com/aadi1011)
+
+[![ok](https://visitcount.itsvg.in/api?id=akarsh323&label=Akarsh&color=12&icon=0&pretty=true)](https://github.com/akarsh323)
 
 
 
