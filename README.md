@@ -56,6 +56,9 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 
 
 
+<a href="#" onclick="return false;">
+  <img src="https://holopin.me/aadi1011" alt="An image of @aadi1011's Holopin badges">
+</a>
 
 
 
