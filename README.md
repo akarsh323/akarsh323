@@ -40,8 +40,9 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 
 
 <a href="https://github.com/akarsh323/akarsh323">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akarsh323&theme=github_dark&count_private=true&show_icons=true&hide_rank=false&hide=issues&custom_title=📈Akarsh's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akarsh323&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&custom_title=📈Akarsh's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
 </a>
+
 
 
 
