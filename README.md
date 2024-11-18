@@ -14,7 +14,7 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 ### 📫Let's connect:
 <a href="mailto:akarshrai086@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
-<a href="www.linkedin.com/in/akarsh-k-608164313" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
+<a href="https://www.linkedin.com/in/akarsh-k-608164313" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
 <a href="https://medium.com/" target='_blank'><img src="https://github.com/aadi1011/aadi1011/assets/62766172/e404671e-548c-4304-bc98-f240b8268ef1" alt="Medium" style="width:45px;height:45px;"></a>
 
