@@ -21,16 +21,19 @@ This project utilizes the following tools and frameworks:
 Languages
 Python
 SQL
+
 Machine Learning Frameworks
 TensorFlow
 PyTorch
 scikit-learn
+
 Data Manipulation and Visualization
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Plotly
+
 Deployment and Serving
 Flask / FastAPI
 Docker
