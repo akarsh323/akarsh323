@@ -48,9 +48,9 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 </a>
 -->
 
-<a href="https://github.com/aadi1011"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aadi1011&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
+<a href="https://github.com/akarsh323"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aadi1011&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
 
-[![An image of @aadi1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
+[![An image of @akarsh323's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
 
 <!--
 **aadi1011/aadi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
