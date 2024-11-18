@@ -56,7 +56,7 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 
 
 
-[![An image of @aadi1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
+
 
 
 
