@@ -1,10 +1,10 @@
-<h1 align='center'>Hi, I am Aadith Sukumar 👋</h1>
+<h1 align='center'>Hi, I am AKARSH K 👋</h1>
 
 <a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Cybersecurity+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
-I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Machine Learning with Specialization in Security & Privacy 🧠🖥️. </br>Cybersecurity enthusiast and avid learner. 
-</br>👨🏽‍💻Programmer in C/C++/Python/Java/SQL/HTML 
-</br>🔐Certified information security and C.E.H. 
+I am a student pursuing my postgraduate Degree in Artificial Intelligence & Machine Learning with Specialization analytics and deep learning. </br>data enthusiast and avid learner. 
+</br>👨🏽‍💻Programmer in Python/SQL/HTML 
+</br>🔐Certified Infrasturce for ai expert 
 </br>🧠Data Scientist & ML Engineer 
 </br>🏅Completed Hacktoberfest 2023 | Hall of Famer
 </br>💻Intermediate experience in Linux. 
@@ -12,11 +12,11 @@ I am a student pursuing my Undergraduate Degree in Artificial Intelligence & Mac
 </br> 🔭 Learning Front-End: React JS, Node JS, Bootstrap
 
 ### 📫Let's connect:
-<a href="mailto:saadith2002@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
+<a href="mailto:akarshrai086@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aadith-sukumar/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
+<a href="www.linkedin.com/in/akarsh-k-608164313" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@saadith2002" target='_blank'><img src="https://github.com/aadi1011/aadi1011/assets/62766172/e404671e-548c-4304-bc98-f240b8268ef1" alt="Medium" style="width:45px;height:45px;"></a>
+<a href="https://medium.com/" target='_blank'><img src="https://github.com/aadi1011/aadi1011/assets/62766172/e404671e-548c-4304-bc98-f240b8268ef1" alt="Medium" style="width:45px;height:45px;"></a>
 
 ### 📖Languages and Tools:
 <a href="https://www.cprogramming.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
