@@ -48,7 +48,7 @@ I am a student pursuing my postgraduate Degree in Artificial Intelligence & Mach
 </a>
 -->
 
-<a href="https://github.com/akarsh323"><img align="center" src="https://github-profile-trophy.vercel.app/?username=akarsh323&theme=discord&no-frame=true&no-bg=true&margin-w=2&row=1&column=4"/></a>
+
 
 [![An image of @akarsh323's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadi1011)](https://holopin.io/@aadi1011)
 
