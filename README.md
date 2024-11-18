@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I am AKARSH K 👋</h1>
 
-<a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;ML+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
+<a href="https://github.com/aadi1011"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Bigdata+Enthusiast;AI+%26+ML+inclined;Always+Learning;Actor%2C+Thinker%2C+Creator" alt="Typing SVG" /></a></br>
 ### 👨‍💻@whoami:
 I am a student pursuing my postgraduate Degree in Artificial Intelligence & Machine Learning with Specialization analytics and deep learning. </br>data enthusiast and avid learner. 
 </br>👨🏽‍💻Programmer in Python/SQL/HTML 
