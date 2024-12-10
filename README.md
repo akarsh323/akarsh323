@@ -4,7 +4,7 @@
 ### 👨‍💻@whoami:
 I am a student pursuing my postgraduate Degree in Artificial Intelligence & Machine Learning with Specialization analytics and deep learning. </br>data enthusiast and avid learner. 
 </br>👨🏽‍💻Programmer in Python/SQL/Tensorflow/terraform/numpy/pandas  
-</br>🔐Certified Infrasturce for ai expert 
+</br>🔐Certified AI for  Infrasturce  expert 
 </br>🧠Data Scientist & ML Engineer 
 </br>🏅Completed Hacktoberfest 2023 | Hall of Famer
 </br>💻Intermediate experience in Linux. 
